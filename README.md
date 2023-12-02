@@ -1,0 +1,1 @@
+# guvenli-sifre-yoneticisi
